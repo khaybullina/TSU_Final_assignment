@@ -8,4 +8,4 @@ The Python code includes the following steps:
 - Clustering by buyer
 - Building a recommender system
 
-This work is my final project for the Professional Retraining Diploma in Data Analysis from Tomsk State University.
+This work is my final project for the Professional Retraining Diploma in Data Analysis at Tomsk State University.
