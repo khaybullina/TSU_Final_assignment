@@ -19,10 +19,9 @@ The goal is to explore customer behavior and product performance using Python an
 ---
 
 ## 📈 Key Insights
-- Top-selling products and most popular items identified  
-- Most customers bought a small number of products  
-- Club membership has a measurable effect on purchase behavior  
-- Clustering revealed distinct customer segments
+- Club membership **significantly affects** the number of items purchased
+- Certain age groups buy more products  
+- TOP products by revenue and popularity identified  
 
 ---
 
