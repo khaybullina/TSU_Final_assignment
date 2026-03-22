@@ -110,15 +110,13 @@ Performed analysis and built visualizations:
 
 ## 📎 Project Structure
 
-```
-TSU_Final_assignment/
-│
-├── Final_assignment_TSU.ipynb
-├── customers.csv
-├── product.csv
-├── transactions.csv
-└── README.md
-```
+TSU_Final_assignment/  
+│  
+├── Final_assignment_TSU.ipynb  
+├── customers.csv  
+├── product.csv  
+├── transactions.csv  
+└── README.md  
 
 ---
 
